@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "欢迎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "欢迎"
             }
           }
         ]
@@ -196,12 +196,12 @@
   },
   "active": "b22201e29819f1c7",
   "lastOpenFiles": [
+    "Test.md",
+    "欢迎.md",
     "Notes/Jottings/Islet -聊天式随记应用.md",
     "文件夹/笔记 111.md",
     "文件夹",
     "Notes/05_ObsidianFeatures.md",
-    "Test.md",
-    "欢迎.md",
     "Notes/02_Links&Images.md",
     "笔记名称.md",
     "Notes/00_Index.md",
